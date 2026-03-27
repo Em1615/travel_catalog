@@ -182,3 +182,8 @@
     border-right-color: var(--border);
   }
 }
+.app {
+  max-width: 1200px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
