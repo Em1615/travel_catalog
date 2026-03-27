@@ -1,0 +1,23 @@
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 0.5rem;
+  background-color: #fff;
+  width: 250px;
+}
+.card:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+.title { margin: 0 0 0.5rem 0; font-size: 1.2rem; }
+.country { font-weight: bold; color: #2c3e50; margin-bottom: 0.5rem; }
+.description { color: #555; margin-bottom: 1rem; }
+.likeContainer { display: flex; justify-content: space-between; align-items: center; }
+.likesCount { font-size: 1rem; }
+.likeButton {
+  background-color: #ff6b6b;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 0.3rem 0.8rem;
+  cursor: pointer;
+}
+.likeButton:hover { background-color: #ff4c4c; }
