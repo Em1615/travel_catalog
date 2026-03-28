@@ -1,9 +1,9 @@
 export const initialTravels = [
   {
     id: 1,
-    country: 'Италия',
-    title: 'Римские каникулы',
-    description: 'Колизей, фонтан Треви, вкуснейшая паста и пицца.',
+    country: 'Румыния',
+    title: 'Вампирское путешествие',
+    description: 'Замки, рыцари, вампиры.',
     likes: 5,
   },
   {
@@ -15,9 +15,9 @@ export const initialTravels = [
   },
   {
     id: 3,
-    country: 'Япония',
-    title: 'Сакура и технологии',
-    description: 'Токио, Киото, суши, сакура и аниме.',
+    country: 'Нидерланды',
+    title: 'Веселые каникулы',
+    description: 'Анаша, шишки, ганджубасик))',
     likes: 12,
   },
   {
